@@ -35,8 +35,9 @@ $ npm install
 ## Start Docker containers
 
 ```bash
+
 # start docker containers
-# docker-compose up
+$ docker-compose up
 ```
 
 ## Running the app
